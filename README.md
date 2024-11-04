@@ -1,6 +1,6 @@
 # Project Title
 
-__Desciption__
+**Desciption**
 
 *Installation Instructions:*
 1. First step
@@ -9,4 +9,4 @@ __Desciption__
 
 <ins>Usage</ins>
 
-![Alt text](![pexels-photo-965345](https://github.com/user-attachments/assets/5a9a500e-32ea-469f-8ee5-2a5f2d536429))
+(![pexels-photo-965345](https://github.com/user-attachments/assets/5a9a500e-32ea-469f-8ee5-2a5f2d536429)
