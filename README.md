@@ -1,6 +1,6 @@
 # Project Title
 
-**Desciption**
+__Desciption__
 
 *Installation Instructions:*
 1. First step
